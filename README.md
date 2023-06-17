@@ -1,5 +1,5 @@
 S4 ECE - CAM COURSE PROJECT:
-Submitted by Shaun S Martin,Ron Varghese Sam,Vishal V and Reshma Ramesh 
+Submitted by Shaun S Martin,Vishal V and Reshma Ramesh 
 
 # Electronic-Voting-Machine:
 
